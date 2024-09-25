@@ -5,8 +5,15 @@
 }
 
 .navBar {
+    align-items: center;
     position: absolute;
-    
+    padding: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.corpo-site{
+    margin-top: 80px;
 }
 .imagens{
     display: inline-flex;
