@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(2, 2, 109);
+    background-color: rgb(68, 68, 212);
     padding: 0;
     margin: 0;
 }
@@ -7,10 +7,11 @@
 .navBar {
     position: absolute;
 }
-
+.imagens{
+    display: inline-flex;
+}
 .title{
-    color: blue;
-    
+    color: rgb(0, 247, 255);
 }
 a{
     color: #ffff;
@@ -18,3 +19,11 @@ a{
     transition: 0.3s;
 
 }
+li{
+    display: inline-flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
